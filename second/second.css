@@ -1,0 +1,26 @@
+.blue{
+    background: hsl(224, 79%, 69%);
+    height: 100vh;
+    width: 35vw;
+    float: left;
+}
+.green {
+    background: hsl(162, 65%, 71%);
+    height: 100vh;
+    width: 35vw;
+}
+.yellow {
+    background: hsl(101, 77%, 75%);
+    height: 100vh;
+    width: 35vw;
+    float: right;
+}
+.red{
+    height: 220px;
+    background: red;
+    margin-top: 77vh;
+}
+.lol {
+    display: flex;
+    justify-content: center;
+}

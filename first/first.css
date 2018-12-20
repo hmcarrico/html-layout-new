@@ -1,0 +1,20 @@
+body {
+    background: rgb(214, 213, 213);
+}
+header {
+    background: rgb(75, 70, 70);
+    height: 167px;
+    width: 100%;
+}
+section {
+    height: 720px;
+    width: 600px;
+    background: white;
+    margin: 0 auto;
+}
+footer {
+    height: 80px;
+    width: 600px;
+    background: black;
+    margin: 0 auto;
+}
